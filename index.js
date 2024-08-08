@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🌐 Bot Oficial da Ace Store","🎫 Se tiver alguma dúvida, abra ticket!","💻 WebSite: Em Desenvolvimento..."];
+const statusMessages = ["🌐 Bot Oficial da 212 Store","🎫 Se tiver alguma dúvida, abra ticket!","💻 WebSite: Em Desenvolvimento..."];
 
 
 let currentIndex = 0;
